@@ -1,0 +1,261 @@
+[
+  {
+    "description": "FT level 3",
+    "end_date": "2025-06-27",
+    "start_date": "2025-04-18",
+    "status": "ToDo",
+    "title": "FT level 3"
+  },
+  {
+    "description": "FT level 2",
+    "end_date": "2025-06-27",
+    "start_date": "2025-04-30",
+    "status": "ToDo",
+    "title": "FT level 2"
+  },
+  {
+    "description": "FT level 1",
+    "end_date": "2025-06-27",
+    "start_date": "2025-05-12",
+    "status": "ToDo",
+    "title": "FT level 1"
+  },
+  {
+    "description": "FT exterior Lighting",
+    "end_date": "2025-06-27",
+    "start_date": "2025-05-15",
+    "status": "ToDo",
+    "title": "FT exterior Lighting"
+  },
+  {
+    "description": "upload completed and reviwed PFCs to Pmates",
+    "end_date": "2025-07-04",
+    "start_date": "2025-07-01",
+    "status": "ToDo",
+    "title": "upload completed and reviwed PFCs to Pmates"
+  },
+  {
+    "description": "FT Roof",
+    "end_date": "2025-06-27",
+    "start_date": "2025-04-18",
+    "status": "ToDo",
+    "title": "FT Roof"
+  },
+  {
+    "description": "create air compressor and vacuum pump lists",
+    "end_date": "2025-06-20",
+    "start_date": "2025-03-10",
+    "status": "ToDo",
+    "title": "create air compressor and vacuum pump lists"
+  },
+  {
+    "description": "update PlanGrid w/ issues",
+    "end_date": "2025-07-08",
+    "start_date": "2025-07-07",
+    "status": "ToDo",
+    "title": "update PlanGrid w/ issues"
+  },
+  {
+    "description": "EF-1: is it failing at startup or during the day? If startup, it could be overcurrent protection setting. If later on, it could be motor heater setting being tripped.",
+    "end_date": "2025-07-09",
+    "start_date": "2025-06-13",
+    "status": "ToDo",
+    "title": "EF-1: is it failing at startup or during the day? If startup, it could be overcurrent protection setting. If later on, it could be motor heater setting being tripped."
+  },
+  {
+    "description": "FOLLOW UP ON MISSING LISTS",
+    "end_date": "2025-06-18",
+    "start_date": "2025-03-10",
+    "status": "ToDo",
+    "title": "FOLLOW UP ON MISSING LISTS"
+  },
+  {
+    "description": "FT level 2 PR-06 area",
+    "end_date": "2025-06-27",
+    "start_date": "2025-04-30",
+    "status": "ToDo",
+    "title": "FT level 2 PR-06 area"
+  },
+  {
+    "description": "Potential PGrid issue: The CC does not have the contacts to send an alarm on status in the fire alarm condition. I need to verify if this is needed under the CC scope or if the building fire alarm panel will be providing this. See M501.",
+    "end_date": "2025-07-11",
+    "start_date": "2025-07-07",
+    "status": "ToDo",
+    "title": "Potential PGrid issue: The CC does not have the contacts to send an alarm on status in the fire alarm condition. I need to verify if this is needed under the CC scope or if the building fire alarm panel will be providing this. See M501."
+  },
+  {
+    "description": "get refrigerant pressure testing results and verify I have all my TAB results. Some forms are stored in Pgrid.",
+    "end_date": "2025-07-09",
+    "start_date": "2025-07-01",
+    "status": "ToDo",
+    "title": "get refrigerant pressure testing results and verify I have all my TAB results. Some forms are stored in Pgrid."
+  },
+  {
+    "description": "summary Cx report",
+    "end_date": "2025-07-07",
+    "start_date": "2025-04-07",
+    "status": "ToDo",
+    "title": "summary Cx report"
+  },
+  {
+    "description": "coordinate training/testing time with Sam, Scott, Jerry, CC, and crew for controls systems.",
+    "end_date": "2025-06-27",
+    "start_date": "2025-03-12",
+    "status": "ToDo",
+    "title": "coordinate training/testing time with Sam, Scott, Jerry, CC, and crew for controls systems."
+  },
+  {
+    "description": "Find a generator FPT script or get the completed permit when tested by city.",
+    "end_date": "2025-07-11",
+    "start_date": "2025-07-07",
+    "status": "ToDo",
+    "title": "Find a generator FPT script or get the completed permit when tested by city."
+  },
+  {
+    "description": "TAB report not sent for EF-4. C/W Jeff to provide it.",
+    "end_date": "2025-07-18",
+    "start_date": "2025-07-07",
+    "status": "ToDo",
+    "title": "TAB report not sent for EF-4. C/W Jeff to provide it."
+  },
+  {
+    "description": "Verify if the AHUs are using VFDs and how/what they are controlling. Reference details 2/M500 and 1/M501.",
+    "end_date": "2025-07-11",
+    "start_date": "2025-07-07",
+    "status": "ToDo",
+    "title": "Verify if the AHUs are using VFDs and how/what they are controlling. Reference details 2/M500 and 1/M501."
+  },
+  {
+    "description": "Review bullhead tee requirements for gas lines in and out of pressure regulators and C/W Shane.",
+    "end_date": "2025-07-09",
+    "start_date": "2025-07-01",
+    "status": "ToDo",
+    "title": "Review bullhead tee requirements for gas lines in and out of pressure regulators and C/W Shane."
+  },
+  {
+    "description": "Per Shane, the VTRs termiante at 18\" AFR. Verify Idaho reqt's in code and C/W Shane.",
+    "end_date": "2025-07-09",
+    "start_date": "2025-07-01",
+    "status": "ToDo",
+    "title": "Per Shane, the VTRs termiante at 18\" AFR. Verify Idaho reqt's in code and C/W Shane."
+  },
+  {
+    "description": "Review maximum PPM allowed for suspended iron in hydronic systems. Shane is reporting a test result of 4.88 PPM. He sees one code says 4.0 and another says 20…",
+    "end_date": "2025-07-09",
+    "start_date": "2025-07-01",
+    "status": "ToDo",
+    "title": "Review maximum PPM allowed for suspended iron in hydronic systems. Shane is reporting a test result of 4.88 PPM. He sees one code says 4.0 and another says 20…"
+  },
+  {
+    "description": "get glycol fill and hydronic balancing reports from Shane",
+    "end_date": "2025-07-09",
+    "start_date": "2025-07-01",
+    "status": "ToDo",
+    "title": "get glycol fill and hydronic balancing reports from Shane"
+  },
+  {
+    "description": "review BMS submittal",
+    "end_date": "2025-06-20",
+    "start_date": "2025-03-11",
+    "status": "ToDo",
+    "title": "review BMS submittal"
+  },
+  {
+    "description": "upload completed and reviwed FTs to Pmates",
+    "end_date": "2025-07-04",
+    "start_date": "2025-07-01",
+    "status": "ToDo",
+    "title": "upload completed and reviwed FTs to Pmates"
+  },
+  {
+    "description": "Separate out all PFCs. There's some overlap.",
+    "end_date": "2025-08-15",
+    "start_date": "2025-07-07",
+    "status": "ToDo",
+    "title": "Separate out all PFCs. There's some overlap."
+  },
+  {
+    "description": "Collect DHW balancing documentation. Supposedly it was completed on 6/2.",
+    "end_date": "2025-08-15",
+    "start_date": "2025-07-07",
+    "status": "ToDo",
+    "title": "Collect DHW balancing documentation. Supposedly it was completed on 6/2."
+  },
+  {
+    "description": "pipe and duct labels to issue log",
+    "end_date": "2025-06-06",
+    "start_date": "2025-05-26",
+    "status": "ToDo",
+    "title": "pipe and duct labels to issue log"
+  },
+  {
+    "description": "requirements for Cx building enclosure?",
+    "end_date": "2025-03-14",
+    "start_date": "2025-03-10",
+    "status": "ToDo",
+    "title": "requirements for Cx building enclosure?"
+  },
+  {
+    "description": "review constr. schedule for FT dates and create lists.",
+    "end_date": "2025-03-21",
+    "start_date": "2025-03-12",
+    "status": "ToDo",
+    "title": "review constr. schedule for FT dates and create lists."
+  },
+  {
+    "description": "verify need to complete PFCs for level 2 PR-06 area.",
+    "end_date": "2025-06-06",
+    "start_date": "2025-05-26",
+    "status": "ToDo",
+    "title": "verify need to complete PFCs for level 2 PR-06 area."
+  },
+  {
+    "description": "receive duct leakage tests from Jeff",
+    "end_date": "2025-06-06",
+    "start_date": "2025-02-12",
+    "status": "ToDo",
+    "title": "receive duct leakage tests from Jeff"
+  },
+  {
+    "description": "SEND INVENTORY LIST AS WELL",
+    "end_date": "2025-03-14",
+    "start_date": "2025-03-10",
+    "status": "ToDo",
+    "title": "SEND INVENTORY LIST AS WELL"
+  },
+  {
+    "description": "field survey",
+    "end_date": "2025-03-21",
+    "start_date": "2025-03-17",
+    "status": "ToDo",
+    "title": "field survey"
+  },
+  {
+    "description": "get on site to review ceiling grid labels for equipment. TBD",
+    "end_date": "2025-06-06",
+    "start_date": "2025-02-12",
+    "status": "ToDo",
+    "title": "get on site to review ceiling grid labels for equipment. TBD"
+  },
+  {
+    "description": "create a master issues log. scour emails and obs reports for items to put on it. see Mike's issue log example at the end of obs #1 of AH. I need to create something similar to this, or find the existing one.",
+    "end_date": "2025-03-11",
+    "start_date": "2025-03-10",
+    "status": "ToDo",
+    "title": "create a master issues log. scour emails and obs reports for items to put on it. see Mike's issue log example at the end of obs #1 of AH. I need to create something similar to this, or find the existing one."
+  },
+  {
+    "description": "prepare for Cx KO mtg",
+    "end_date": "2025-03-17",
+    "start_date": "2025-03-12",
+    "status": "ToDo",
+    "title": "prepare for Cx KO mtg"
+  },
+  {
+    "description": "upload all docs to Pmates",
+    "end_date": "2025-04-30",
+    "start_date": "2025-04-23",
+    "status": "ToDo",
+    "title": "upload all docs to Pmates"
+  }
+]

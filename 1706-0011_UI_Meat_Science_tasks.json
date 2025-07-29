@@ -1,0 +1,79 @@
+[
+  {
+    "description": "What's next?, review project schedule, Cx plan, project manual, and add here.",
+    "end_date": "2025-06-18",
+    "start_date": "2025-03-03",
+    "status": "ToDo",
+    "title": "What's next?, review project schedule, Cx plan, project manual, and add here."
+  },
+  {
+    "description": "Observation report (1)",
+    "end_date": "2025-07-11",
+    "start_date": "2025-07-07",
+    "status": "ToDo",
+    "title": "Observation report (1)"
+  },
+  {
+    "description": "Verify that this is a LEED building. How does that affect Cx? enhanced Cx scope to go along with LEED and paperwork to be filled out by the Cx person. C/W David or Jerry.",
+    "end_date": "2025-06-18",
+    "start_date": "2025-02-27",
+    "status": "ToDo",
+    "title": "Verify that this is a LEED building. How does that affect Cx? enhanced Cx scope to go along with LEED and paperwork to be filled out by the Cx person. C/W David or Jerry."
+  },
+  {
+    "description": "site surveys and observation reports scheduled in outlook",
+    "end_date": "2025-06-18",
+    "start_date": "2025-02-27",
+    "status": "ToDo",
+    "title": "site surveys and observation reports scheduled in outlook"
+  },
+  {
+    "description": "schedule Cx KO meeting",
+    "end_date": "2025-06-27",
+    "start_date": "2025-02-27",
+    "status": "ToDo",
+    "title": "schedule Cx KO meeting"
+  },
+  {
+    "description": "create and send PFCs to GC",
+    "end_date": "2025-06-27",
+    "start_date": "2025-02-27",
+    "status": "ToDo",
+    "title": "create and send PFCs to GC"
+  },
+  {
+    "description": "create and send FPTs to GC",
+    "end_date": "2025-07-07",
+    "start_date": "2025-02-27",
+    "status": "ToDo",
+    "title": "create and send FPTs to GC"
+  },
+  {
+    "description": "Summary report",
+    "end_date": "2025-07-07",
+    "start_date": "2025-02-27",
+    "status": "ToDo",
+    "title": "Summary report"
+  },
+  {
+    "description": "upload completed docs to Pmates",
+    "end_date": "2025-08-08",
+    "start_date": "2025-02-27",
+    "status": "ToDo",
+    "title": "upload completed docs to Pmates"
+  },
+  {
+    "description": "send inventory list to GC",
+    "end_date": "2025-06-13",
+    "start_date": "2025-02-27",
+    "status": "ToDo",
+    "title": "send inventory list to GC"
+  },
+  {
+    "description": "continue reviewing submittals from major systems and c/w Brent",
+    "end_date": "2025-03-07",
+    "start_date": "2025-03-03",
+    "status": "ToDo",
+    "title": "continue reviewing submittals from major systems and c/w Brent"
+  }
+]

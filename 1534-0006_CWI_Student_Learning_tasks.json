@@ -1,0 +1,44 @@
+[
+  {
+    "description": "create a Cx plan? What is our scope? Do we have a contract?",
+    "end_date": "2025-06-20",
+    "start_date": "2025-03-31",
+    "status": "ToDo",
+    "title": "create a Cx plan? What is our scope? Do we have a contract?"
+  },
+  {
+    "description": "review construction schedule for Cx items and general timelines",
+    "end_date": "2025-06-20",
+    "start_date": "2025-03-31",
+    "status": "ToDo",
+    "title": "review construction schedule for Cx items and general timelines"
+  },
+  {
+    "description": "review specs",
+    "end_date": "2025-06-20",
+    "start_date": "2025-03-31",
+    "status": "ToDo",
+    "title": "review specs"
+  },
+  {
+    "description": "Coordinate with owner's rep to create a commissioning folder in plangrid identical to HS and AH.",
+    "end_date": "2025-06-20",
+    "start_date": "2025-03-31",
+    "status": "ToDo",
+    "title": "Coordinate with owner's rep to create a commissioning folder in plangrid identical to HS and AH."
+  },
+  {
+    "description": "pull drawings and relevant documents from plangrid.",
+    "end_date": "2025-06-20",
+    "start_date": "2025-03-31",
+    "status": "ToDo",
+    "title": "pull drawings and relevant documents from plangrid."
+  },
+  {
+    "description": "review submittals",
+    "end_date": "2025-06-20",
+    "start_date": "2025-03-31",
+    "status": "ToDo",
+    "title": "review submittals"
+  }
+]

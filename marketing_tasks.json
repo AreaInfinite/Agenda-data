@@ -1,0 +1,106 @@
+[
+  {
+    "id": "task-0",
+    "title": "Scope in development.",
+    "description": "Scope in development.",
+    "startDate": "2025-05-26",
+    "endDate": "2025-06-10",
+    "status": "To Do"
+  },
+  {
+    "id": "task-1",
+    "title": "we lost this proposal.",
+    "description": "we lost this proposal.",
+    "startDate": "2025-05-26",
+    "endDate": "2025-06-10",
+    "status": "Complete"
+  },
+  {
+    "id": "task-2",
+    "title": "we lost this proposal.",
+    "description": "we lost this proposal.",
+    "startDate": "2025-05-26",
+    "endDate": "2025-06-10",
+    "status": "Complete"
+  },
+  {
+    "id": "task-3",
+    "title": "on hold?",
+    "description": "on hold?",
+    "startDate": "2025-05-26",
+    "endDate": "2025-06-10",
+    "status": "To Do"
+  },
+  {
+    "id": "task-4",
+    "title": "quote in review by client, awaiting word on future work. Check in.",
+    "description": "quote in review by client, awaiting word on future work. Check in.",
+    "startDate": "2025-05-26",
+    "endDate": "2025-06-20",
+    "status": "To Do"
+  },
+  {
+    "id": "task-5",
+    "title": "get GC contacts from ESI washington brach or Hoffman for Jantien. C/W Po.",
+    "description": "get GC contacts from ESI washington brach or Hoffman for Jantien. C/W Po.",
+    "startDate": "2025-05-26",
+    "endDate": "2025-06-10",
+    "status": "To Do"
+  },
+  {
+    "id": "task-6",
+    "title": "\"Yawn-Teen\" Jantien is how you pronounce her name.",
+    "description": "\"Yawn-Teen\" Jantien is how you pronounce her name.",
+    "startDate": "2025-05-26",
+    "endDate": "2025-06-10",
+    "status": "To Do"
+  },
+  {
+    "id": "task-7",
+    "title": "we lost this proposal.",
+    "description": "we lost this proposal.",
+    "startDate": "2025-05-26",
+    "endDate": "2025-06-10",
+    "status": "To Do"
+  },
+  {
+    "id": "task-8",
+    "title": "we decided not to pursue.",
+    "description": "we decided not to pursue.",
+    "startDate": "2025-05-26",
+    "endDate": "2025-06-10",
+    "status": "To Do"
+  },
+  {
+    "id": "task-9",
+    "title": "in review by client.",
+    "description": "in review by client.",
+    "startDate": "2025-05-26",
+    "endDate": "2025-06-10",
+    "status": "To Do"
+  },
+  {
+    "id": "task-10",
+    "title": "in review by client.",
+    "description": "in review by client.",
+    "startDate": "2025-05-26",
+    "endDate": "2025-06-10",
+    "status": "To Do"
+  },
+  {
+    "id": "task-1753736639717",
+    "title": "Does this work?",
+    "description": "Does this work?",
+    "startDate": "2025-07-28",
+    "endDate": "2025-07-29",
+    "status": "Complete"
+  },
+  {
+    "id": "task-1753798766336",
+    "title": "Capital Mall Office Remodel Design Proposal",
+    "description": "Capital Mall Office Remodel Design Proposal",
+    "startDate": "2025-07-28",
+    "endDate": "2025-08-01",
+    "status": "In Progress"
+  }
+]

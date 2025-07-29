@@ -1,0 +1,212 @@
+[
+  {
+    "description": "D101 presentation prep and notes to Russ",
+    "end_date": "2025-07-09",
+    "start_date": "2025-07-07",
+    "status": "ToDo",
+    "title": "D101 presentation prep and notes to Russ"
+  },
+  {
+    "description": "create an NWESI branded fee/quote template w/ and w/o fee tables for Design team in word and excel. use Cx templates as a base.",
+    "end_date": "2025-06-14",
+    "start_date": "2025-03-10",
+    "status": "ToDo",
+    "title": "create an NWESI branded fee/quote template w/ and w/o fee tables for Design team in word and excel. use Cx templates as a base."
+  },
+  {
+    "description": "I am charged with developing design team standards, processes, and onboarding training. Add files to design folder and c/w russ for layout. C/W Russ for dropbox layout too.",
+    "end_date": "2025-06-14",
+    "start_date": "2025-03-10",
+    "status": "ToDo",
+    "title": "I am charged with developing design team standards, processes, and onboarding training. Add files to design folder and c/w russ for layout. C/W Russ for dropbox layout too."
+  },
+  {
+    "description": "edit and combine MEP proposal matrixes in Rates and Fees folder",
+    "end_date": "2025-06-21",
+    "start_date": "2025-03-17",
+    "status": "ToDo",
+    "title": "edit and combine MEP proposal matrixes in Rates and Fees folder"
+  },
+  {
+    "description": "SAVE LINETYPES BASED ON RUSS' LEGEND AND CREATE MASTER drawing(s) WITH ALL THAT INFO SAVED",
+    "end_date": "2025-06-10",
+    "start_date": "2025-05-26",
+    "status": "ToDo",
+    "title": "SAVE LINETYPES BASED ON RUSS' LEGEND AND CREATE MASTER drawing(s) WITH ALL THAT INFO SAVED"
+  },
+  {
+    "description": "C/W Russ to create NWESI title blocks for all major dwg sizes. remove logo border. make sure logo is high res to it's readable at any magnification. make sure revision info will fit.make sure fonts are consistent. add general and sheet notes and legends. Also create SD/DD \"titleblocks\" for all major sizes.",
+    "end_date": "2025-06-10",
+    "start_date": "2025-05-26",
+    "status": "ToDo",
+    "title": "C/W Russ to create NWESI title blocks for all major dwg sizes. remove logo border. make sure logo is high res to it's readable at any magnification. make sure revision info will fit.make sure fonts are consistent. add general and sheet notes and legends. Also create SD/DD \"titleblocks\" for all major sizes."
+  },
+  {
+    "description": "work with team and Katie to add design rate sheet into smartsheet flow and save onto server",
+    "end_date": "2025-06-27",
+    "start_date": "2025-05-26",
+    "status": "ToDo",
+    "title": "work with team and Katie to add design rate sheet into smartsheet flow and save onto server"
+  },
+  {
+    "description": "make sure master TB has submittal block built-in and other general notes that Russ has been adding.",
+    "end_date": "2025-06-14",
+    "start_date": "2025-03-10",
+    "status": "ToDo",
+    "title": "make sure master TB has submittal block built-in and other general notes that Russ has been adding."
+  },
+  {
+    "description": "work with Russ to create a design standards manual with fonts, symbols, leaders, keynotes, specs, schedules, etc.",
+    "end_date": "2025-06-14",
+    "start_date": "2025-03-10",
+    "status": "ToDo",
+    "title": "work with Russ to create a design standards manual with fonts, symbols, leaders, keynotes, specs, schedules, etc."
+  },
+  {
+    "description": "OVERWRITE MASTER TB WITH THE ARK ONE",
+    "end_date": "2025-06-01",
+    "start_date": "2025-03-10",
+    "status": "ToDo",
+    "title": "OVERWRITE MASTER TB WITH THE ARK ONE"
+  },
+  {
+    "description": "Update vendor contacts and offerings. see word document for temporary list.",
+    "end_date": "2025-06-28",
+    "start_date": "2025-03-17",
+    "status": "ToDo",
+    "title": "Update vendor contacts and offerings. see word document for temporary list."
+  },
+  {
+    "description": "Create onboarding process with timelines, goals, and check-ins built in. Like a 1-wk, 1-month, 3-month kind of thing.",
+    "end_date": "2025-06-04",
+    "start_date": "2025-04-01",
+    "status": "ToDo",
+    "title": "Create onboarding process with timelines, goals, and check-ins built in. Like a 1-wk, 1-month, 3-month kind of thing."
+  },
+  {
+    "description": "add schedule notes that the weights either do or don't include accessories and roof curbs.",
+    "end_date": "2025-06-04",
+    "start_date": "2025-04-02",
+    "status": "ToDo",
+    "title": "add schedule notes that the weights either do or don't include accessories and roof curbs."
+  },
+  {
+    "description": "check lexar for Revit templates",
+    "end_date": "2025-06-04",
+    "start_date": "2025-04-01",
+    "status": "ToDo",
+    "title": "check lexar for Revit templates"
+  },
+  {
+    "description": "AI to write python code for Revit standards and templates",
+    "end_date": "2025-06-11",
+    "start_date": "2025-04-09",
+    "status": "ToDo",
+    "title": "AI to write python code for Revit standards and templates"
+  },
+  {
+    "description": "create WH calcs 1) normal 2) food service that can be shown on CD's",
+    "end_date": "2025-06-09",
+    "start_date": "2025-03-09",
+    "status": "ToDo",
+    "title": "create WH calcs 1) normal 2) food service that can be shown on CD's"
+  },
+  {
+    "description": "CREATE MASTER BLOCK FOLDER WITH LABELS FOR 1/4\" AND 1/8\" SCALE",
+    "end_date": "2025-06-10",
+    "start_date": "2025-05-26",
+    "status": "ToDo",
+    "title": "CREATE MASTER BLOCK FOLDER WITH LABELS FOR 1/4\" AND 1/8\" SCALE"
+  },
+  {
+    "description": "setup intellicad with lisps, plotters, etc from website. (Russ may have given these to me already)",
+    "end_date": "2025-06-01",
+    "start_date": "2025-05-26",
+    "status": "ToDo",
+    "title": "setup intellicad with lisps, plotters, etc from website. (Russ may have given these to me already)"
+  },
+  {
+    "description": "edit all CSHQA calcs and references to be NWESI. Don't plagiarize.",
+    "end_date": "2025-06-10",
+    "start_date": "2025-05-26",
+    "status": "ToDo",
+    "title": "edit all CSHQA calcs and references to be NWESI. Don't plagiarize."
+  },
+  {
+    "description": "include plumbing foundation plans or show footings on floor plans in CDs",
+    "end_date": "2025-06-21",
+    "start_date": "2025-03-17",
+    "status": "ToDo",
+    "title": "include plumbing foundation plans or show footings on floor plans in CDs"
+  },
+  {
+    "description": "get psych chart tool from HAP v6 training onenote notes.",
+    "end_date": "2025-06-14",
+    "start_date": "2025-03-12",
+    "status": "ToDo",
+    "title": "get psych chart tool from HAP v6 training onenote notes."
+  },
+  {
+    "description": "add sequence of operations sheets and controls sheets to M and P sets as part of standards",
+    "end_date": "2025-06-08",
+    "start_date": "2025-04-07",
+    "status": "ToDo",
+    "title": "add sequence of operations sheets and controls sheets to M and P sets as part of standards"
+  },
+  {
+    "description": "look into distech controls for an add-on analytics service. review controls submittal 4 and 4.1 from Health and Science project for distech research and c/w russ. SEND INFO TO PO.",
+    "end_date": "2025-06-07",
+    "start_date": "2025-03-03",
+    "status": "ToDo",
+    "title": "look into distech controls for an add-on analytics service. review controls submittal 4 and 4.1 from Health and Science project for distech research and c/w russ. SEND INFO TO PO."
+  },
+  {
+    "description": "Format all SEED Cx standards to be NWESI. Try to find NWESI lists first.",
+    "end_date": "2025-06-10",
+    "start_date": "2025-05-26",
+    "status": "ToDo",
+    "title": "Format all SEED Cx standards to be NWESI. Try to find NWESI lists first."
+  },
+  {
+    "description": "look through the common and common>engr tools folders. save useful to home. also share mine. c/w team for where to save",
+    "end_date": "2025-06-28",
+    "start_date": "2025-05-26",
+    "status": "ToDo",
+    "title": "look through the common and common>engr tools folders. save useful to home. also share mine. c/w team for where to save"
+  },
+  {
+    "description": "Keep design build contractors in mind for building relationships and projects.",
+    "end_date": "2025-06-10",
+    "start_date": "2025-05-26",
+    "status": "ToDo",
+    "title": "Keep design build contractors in mind for building relationships and projects."
+  },
+  {
+    "description": "create Cx spreadsheet for budgeting just like for design. Edit both as needed for new rates.",
+    "end_date": "2025-06-28",
+    "start_date": "2025-02-27",
+    "status": "ToDo",
+    "title": "create Cx spreadsheet for budgeting just like for design. Edit both as needed for new rates."
+  },
+  {
+    "description": "autodesk mechanical for gbxml files? can intellicad do this or regular ACAD?",
+    "end_date": "2025-06-07",
+    "start_date": "2025-03-03",
+    "status": "ToDo",
+    "title": "autodesk mechanical for gbxml files? can intellicad do this or regular ACAD?"
+  },
+  {
+    "description": "participate in the AIA yearly golf tournament to network for new partnerships",
+    "end_date": "2025-06-28",
+    "start_date": "2025-05-26",
+    "status": "ToDo",
+    "title": "participate in the AIA yearly golf tournament to network for new partnerships"
+  },
+  {
+    "description": "Plan for Chris L&L for HSS software and Taco eqmt. and Robert drop by.",
+    "end_date": "2025-06-07",
+    "start_date": "2025-03-06",
+    "status": "ToDo",
+    "title": "Plan for Chris L&L for HSS software and Taco eqmt. and Robert drop by."
+  }
+]
