@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Combined Daily Agenda</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background: #f4f4f4;
+    }
+    h1 {
+      text-align: center;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    li {
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      margin-bottom: 10px;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>📅 Combined Daily Agenda (In Progress)</h1>
+  <ul id="agenda"></ul>
+
+  <script>
+  const GITHUB_LINKS = [
+    "https://raw.githubusercontent.com/AreaInfinite/Agenda-data/main/Misc.%20Task%20List.json"
+  ];
+
+  async function fetchAllTasks() {
+    let allTasks = [];
+    for (const url of GITHUB_LINKS) {
+      try {
+  const res = await fetch(url);
+  const contentType = res.headers.get("content-type") || "";
+  if (!contentType.includes("application/json")) {
+    throw new Error("Response is not JSON");
+  }
+  const data = await res.json();
+  console.log("Loaded from GitHub:", data);
+  allTasks = allTasks.concat(data.filter(t => (t.status || "").toLowerCase() === "in progress"));
+} catch (e) {
+  console.warn("Failed to load:", url, e);
+}  
+    }      
+    return allTasks;
+  }
+
+  async function renderAgenda() {
+    const agendaEl = document.getElementById("agenda");
+    agendaEl.innerHTML = "Loading...";
+    const tasks = await fetchAllTasks();
+
+    agendaEl.innerHTML = "";
+    if (tasks.length === 0) {
+      agendaEl.innerHTML = "<li>No tasks in progress.</li>";
+      return;
+    }
+
+    tasks.sort((a, b) => new Date(a.endDate) - new Date(b.endDate));
+    for (const task of tasks) {
+      const li = document.createElement("li");
+      const dueDate = new Date(task.endDate);
+      const daysLeft = Math.ceil((dueDate - new Date()) / (1000 * 60 * 60 * 24));
+      const color = daysLeft < 0 ? "#f8d7da" : daysLeft <= 3 ? "#fff3cd" : "#fff";
+
+      li.style.background = color;
+      li.style.marginBottom = "10px";
+      li.style.padding = "10px";
+      li.style.border = "1px solid #ccc";
+      li.style.borderRadius = "6px";
+      li.innerHTML = `
+        <strong>${task.title}</strong><br>
+        <small>${task.startDate} → ${task.endDate}</small><br>
+        <em>${daysLeft < 0 ? "Overdue" : daysLeft + " day(s) left"}</em>
+      `;
+      agendaEl.appendChild(li);
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", renderAgenda);
+  </script>
+</body>
+</html>
