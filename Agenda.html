@@ -41,11 +41,15 @@
     for (const url of GITHUB_LINKS) {
       try {
   const res = await fetch(url);
-  const contentType = res.headers.get("content-type") || "";
-  if (!contentType.includes("application/json")) {
-    throw new Error("Response is not JSON");
-  }
-  const data = await res.json();
+  console.log("Fetch response for", url, res);
+let data;
+try {
+  data = await res.json();
+} catch (err) {
+  const rawText = await res.text();
+  console.error("Failed to parse JSON. Raw response was:", rawText);
+  throw new Error("Response is not valid JSON");
+}
   console.log("Loaded from GitHub:", data);
   allTasks = allTasks.concat(data.filter(t => (t.status || "").toLowerCase() === "in progress"));
 } catch (e) {
